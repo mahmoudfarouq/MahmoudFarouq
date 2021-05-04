@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MahmoudFarouq/MahmoudFarouq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=MahmoudFarouq)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a Software Engineer at [Tahweela Technologies](https://github.com/tahweela)
+- 🌱 I’m currently learning more about myself.
+- 👯 I’m looking to collaborate on interesting stuff.
+- 💬 Ask me about (Backend Development, Python, Go, Rust, Anime)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/opensorcerer/)
+- check my static [blog](https://mahmoudfarouq.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=MahmoudFarouq)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Tropy](https://github-profile-trophy.vercel.app/?username=MahmoudFarouq)](https://github.com/MahmoudFarouq/github-profile-trophy)
