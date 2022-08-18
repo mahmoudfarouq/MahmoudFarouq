@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=MahmoudFarouq)
 
-- 🔭 I’m currently working as a Software Engineer at [Tahweela Technologies](https://github.com/tahweela)
+- 🔭 I’m currently working as a Software Engineer at [Flash Technologies](https://github.com/useflashapp)
 - 🌱 I’m currently learning more about myself.
 - 👯 I’m looking to collaborate on interesting stuff.
 - 💬 Ask me about (Backend Development, Python, Go, Rust, Anime)
